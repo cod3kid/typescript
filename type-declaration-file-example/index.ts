@@ -6,4 +6,4 @@ app.functionDoesntExist();
 
 // express.d.ts file doesn't contain the method use(). Install the actual type declaration
 // library for expres => npm i @types/express
-app.use();
+// app.use();
